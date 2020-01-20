@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: okbon.png
+img: ogbon.png
 date: 2019-02-22
 img: ogbon01.png
 alt: image-alt
