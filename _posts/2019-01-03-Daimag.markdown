@@ -1,0 +1,13 @@
+---
+
+layout: default
+modal-id: 12
+date: 2018-01-10
+img: daimag.png
+alt: image-alt
+project-date: Fevereiro de 2018
+client: Daimag
+category: Sites
+description:  Site desenvolvido para a revista eletronica DaiMag Wordpress. Link direto para o site <a href="https://daimag.com">Daimag.com</a>.
+
+---
